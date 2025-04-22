@@ -12,4 +12,3 @@ This year's topic is "Talking with Tables"
 - a max number of **8** students can take part in my course
 - applications will be processed in the order of arrival
 - if you like to take part in this research project, please send a mail to **milde@hs-fulda.de** with subject **"Research Project 2025: participation"**
-- 
