@@ -10,3 +10,11 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 ```
+
+
+## Ask a question
+
+```
+python simple_rag.py -q "What is attack?" -t "synthesizers"
+
+```
