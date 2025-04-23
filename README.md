@@ -13,7 +13,7 @@ This year's topic is "Talking with Tables"
 - applications will be processed in the order of arrival
 - if you like to take part in this research project, please send a mail to **milde@hs-fulda.de** with subject **"Research Project 2025: participation"**
 
-## BBB Link for Online participation (upon request)
+## BBB Link for online participation (upon request)
 
 - https://webconf.hs-fulda.de/b/jan-tfw-wjo-y9s
 
