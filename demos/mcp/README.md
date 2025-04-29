@@ -8,6 +8,6 @@ An entry level example of a MCP server with two tools (functions) and how it is 
 deactivate
 python3.10 -m venv venv
 source venv/bin/activate
-
+pip install -r requirements.txt 
 
 ```
