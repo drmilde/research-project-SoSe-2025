@@ -17,5 +17,6 @@ pip install -r requirements.txt
 In order to test the MCP Server, you may start it with (once you have finished the installation)
 
 ```
-python string
+python string_tools_server.py
+
 ```
