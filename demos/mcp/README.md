@@ -20,3 +20,10 @@ In order to test the MCP Server, you may start it with (once you have finished t
 python string_tools_server.py
 
 ```
+
+## Test with llm
+
+```
+python ollama_mcp.py
+
+```
